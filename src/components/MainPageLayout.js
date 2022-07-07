@@ -1,4 +1,3 @@
-/* eslint-disable react/function-component-definition */
 import React from 'react';
 import Navs from './Navs';
 import Title from './Title';
@@ -8,9 +7,8 @@ const MainPageLayout = ({ children }) => {
     <div>
       <Title
         title="Box Office"
-        subtitle="Are you looking for a movie or an actor"
+        subtitle="Are you looking for a movie or an actor?"
       />
-
       <Navs />
 
       {children}
