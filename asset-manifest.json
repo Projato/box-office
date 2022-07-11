@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/box-office/static/css/main.b2586571.css",
+    "main.js": "/box-office/static/js/main.b7f38c2a.js",
+    "service-worker.js": "/box-office/service-worker.js",
+    "index.html": "/box-office/index.html",
+    "main.b2586571.css.map": "/box-office/static/css/main.b2586571.css.map",
+    "main.b7f38c2a.js.map": "/box-office/static/js/main.b7f38c2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2586571.css",
+    "static/js/main.b7f38c2a.js"
+  ]
+}
