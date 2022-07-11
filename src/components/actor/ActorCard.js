@@ -16,4 +16,5 @@ const ActorCard = ({ image, name, gender, country, birthday, deathday }) => {
     </StyledActorCard>
   );
 };
+
 export default ActorCard;
